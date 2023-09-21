@@ -1,0 +1,12 @@
+C:\Users\rappe\Soft2\Test\TestSP1\TestSP1\bin\Debug\net6.0\TestSP1.deps.json
+C:\Users\rappe\Soft2\Test\TestSP1\TestSP1\bin\Debug\net6.0\TestSP1.dll
+C:\Users\rappe\Soft2\Test\TestSP1\TestSP1\bin\Debug\net6.0\TestSP1.pdb
+C:\Users\rappe\Soft2\Test\TestSP1\TestSP1\obj\Debug\net6.0\TestSP1.csproj.AssemblyReference.cache
+C:\Users\rappe\Soft2\Test\TestSP1\TestSP1\obj\Debug\net6.0\TestSP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rappe\Soft2\Test\TestSP1\TestSP1\obj\Debug\net6.0\TestSP1.AssemblyInfoInputs.cache
+C:\Users\rappe\Soft2\Test\TestSP1\TestSP1\obj\Debug\net6.0\TestSP1.AssemblyInfo.cs
+C:\Users\rappe\Soft2\Test\TestSP1\TestSP1\obj\Debug\net6.0\TestSP1.csproj.CoreCompileInputs.cache
+C:\Users\rappe\Soft2\Test\TestSP1\TestSP1\obj\Debug\net6.0\TestSP1.dll
+C:\Users\rappe\Soft2\Test\TestSP1\TestSP1\obj\Debug\net6.0\refint\TestSP1.dll
+C:\Users\rappe\Soft2\Test\TestSP1\TestSP1\obj\Debug\net6.0\TestSP1.pdb
+C:\Users\rappe\Soft2\Test\TestSP1\TestSP1\obj\Debug\net6.0\ref\TestSP1.dll
