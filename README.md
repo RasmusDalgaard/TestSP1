@@ -36,16 +36,16 @@
 **Complete the following two katas using TDD.**
 ### 2.1 FAHRENHEIT-TO-CELCIUS CONVERTER
 **Use TDD to create a fahrenheit-to-celcius converter.**  
-[See code implementation](https://github.com/Cph-ta181/Testing_StudyPoint/blob/main/TestSP1/Converter.cs) method 'convertToFahrenheit'  
-[See tests](https://github.com/Cph-ta181/Testing_StudyPoint/blob/main/Tests/ConverterTest.cs) metod 'convertToFahrenheitTest'  
+[See code implementation](https://github.com/RasmusDalgaard/TestSP1/blob/main/TestSP1/Converter.cs) method 'convertToFahrenheit'  
+[See tests](https://github.com/RasmusDalgaard/TestSP1/blob/main/Tests/ConverterTest.cs) metod 'convertToFahrenheitTest'  
 **Use TDD to extend it to a celcius-to-fahrenheit converter**  
-[See code implementation](https://github.com/Cph-ta181/Testing_StudyPoint/blob/main/TestSP1/Converter.cs) method 'convertToCelcius'  
-[See tests](https://github.com/Cph-ta181/Testing_StudyPoint/blob/main/Tests/ConverterTest.cs) metod 'convertToCelciusTest'  
+[See code implementation](https://github.com/RasmusDalgaard/TestSP1/blob/main/TestSP1/Converter.cs) method 'convertToCelcius'  
+[See tests](https://github.com/RasmusDalgaard/TestSP1/blob/main/Tests/ConverterTest.cs) metod 'convertToCelciusTest'  
 
 ### 2.2 ROMAN NUMERAL KATA
 **Implement an “Arabic numeral to roman numeral” converter using TDD. Follow the standard form of roman numerals.**  
-[See code implementation](https://github.com/Cph-ta181/Testing_StudyPoint/blob/main/TestSP1/Converter.cs) method 'convertToRomanNumeral'  
-[See tests](https://github.com/Cph-ta181/Testing_StudyPoint/blob/main/Tests/ConverterTest.cs) metod 'convertToRomanNumeralTest'
+[See code implementation](https://github.com/RasmusDalgaard/TestSP1/blob/main/TestSP1/Converter.cs) method 'convertToRomanNumeral'  
+[See tests](https://github.com/RasmusDalgaard/TestSP1/blob/main/Tests/ConverterTest.cs) metod 'convertToRomanNumeralTest'
 
 ## 3 Give your thought on TDD
 **What was positive and good about using TDD?**
