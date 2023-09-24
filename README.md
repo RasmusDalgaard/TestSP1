@@ -5,7 +5,7 @@
 **A woman fired a shot at a man with her gun, but the man did not die. List the possible reasons for the man not dying.**
 1. Bullet misses man
 2. Bullet is stopped before injuring man
-3. Bullet wound is non-vita
+3. Bullet wound is non-vital
 4. Vital bullet wound is immediately treated
 
 ### 1.2 Alien
@@ -16,7 +16,7 @@
 4. Place end-cap somewhere near.
 5. Pick up toothbrush so that the brush side is on the left facing you.
 6. Bring end of toothpaste and brush of toothbrush togehter.
-7. Squeeze toothpaste until an amount similar to the size of a bean is on the brush.
+7. Squeeze toothpaste until half the size of the brush is covered by the toothpaste.
 8. While holding the toothbrush in right hand using pinky, ring, and middlefinger. Pick up end-cap.
 9. Screw end-cap clock-wise onto the end of the toothpaste.
 10. Place toothepaste back where found.
@@ -24,11 +24,11 @@
 12. Place toothbrush onto backside of uppper-teeth.
 13. Move toothbrush to the right most tooth.
 14. Move toothbrush from side to side moving slowly more and more towards the left side until you cant go any further.
-15. Repeat for biting-side and front side og upper teeth.
+15. Repeat for biting-side and front side of upper teeth.
 16. Repeat step 12-15 on lower teeth.
 17. Remove toothbrush from mouth.
-18. Spit out toothpaste anywhere.
-19. Under a faucet rinse brush on toothbrush for any remaining toothpaste.
+18. Spit out toothpaste.
+19. Under a faucet rinse brush of toothbrush for any remaining toothpaste.
 20. Place toothbrush back where found.
 
 
