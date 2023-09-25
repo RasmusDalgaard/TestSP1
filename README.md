@@ -50,12 +50,13 @@
 ## 3 Give your thought on TDD
 **What was positive and good about using TDD?**  
 It was positive knowing that the test defined what the method had to accomplish for the test to pass. Also writing the test as the first thing reassures that we don't forget writing tests.
+It also makes it so the codebase is well tested and reliable and it does reduce the chances of bugs and helps keeping a clean maintainable code.
 
 **What was annoying or difficult?**  
 At the same time it can be a little tedious having to write a new test each time you want to make a new method. In a sense TDD is a trade-off. It may take up a little more of your time initially but on the other hand it may save you some time later.
 
 **What surprised you?**  
-There were no significant surprises.
+There were no significant surprises. But TDD could have been a tool to improve the code design. The reason why is because it makes us developers think about the structure of the code, which might result in a nice structure and a good solution.
 
 **Did TDD help you write some tests you wouldn’t otherwise have thought of?**  
 Not in this case because it was a relatively simple execise, but in a more complex program its benefits would have been even more clear.
