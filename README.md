@@ -48,14 +48,14 @@
 [See tests](https://github.com/RasmusDalgaard/TestSP1/blob/main/Tests/ConverterTest.cs) metod 'convertToRomanNumeralTest'
 
 ## 3 Give your thought on TDD
-**What was positive and good about using TDD?**
+**What was positive and good about using TDD?**  
 It was positive knowing that the test defined what the method had to accomplish for the test to pass. Also writing the test as the first thing reassures that we don't forget writing tests.
 
-**What was annoying or difficult?**
+**What was annoying or difficult?**  
 At the same time it can be a little tedious having to write a new test each time you want to make a new method. In a sense TDD is a trade-off. It may take up a little more of your time initially but on the other hand it may save you some time later.
 
-**What surprised you?**
+**What surprised you?**  
 There were no significant surprises.
 
-**Did TDD help you write some tests you wouldn’t otherwise have thought of?**
+**Did TDD help you write some tests you wouldn’t otherwise have thought of?**  
 Not in this case because it was a relatively simple execise, but in a more complex program its benefits would have been even more clear.
