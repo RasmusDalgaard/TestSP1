@@ -1,31 +1,46 @@
-using TestSP1;
-
 namespace Tests
 
 {
     public class ConverterTest
     {
-        private Converter converter = new Converter();
-        private double fahrenHeit = 66.99;
-        private double celcius = 19.44;
-        private int arabicNum = 1200;
-
-
         [Fact]
         public void convertToCelciusTest()
         {
-            Assert.Equal(celcius, converter.convertToCelcius(fahrenHeit));
+            // Arrange
+            var converter = new Converter();
+            var fahrenheit = 66.99;
+
+            // Act
+            var actual = converter.convertToCelcius(fahrenheit);
+
+            // Assert
+            Assert.Equal(19.44, actual);
         }
 
         [Fact]
         public void convertToFahrenheitTest()
         {
-            Assert.Equal(fahrenHeit, converter.convertToFahrenheit(celcius));
+            // Arrange
+            var converter = new Converter();
+            var celcius = 19.44;
+
+            // Act
+            var actual = converter.convertToFahrenheit(celcius);
+
+            // Assert
+            Assert.Equal(66.99, actual);
         }
         [Fact]
         public void convertToRomanNumeralTest()
         {
-            Assert.Equal("MCC", converter.convertToRomanNumeral(arabicNum));
+            // Arrange
+            var converter = new Converter();
+
+            // Act 
+            var actual = converter.convertToRomanNumeral(1200);
+
+            // Assert
+            Assert.Equal("MCC", actual);
         }
     }
 }
